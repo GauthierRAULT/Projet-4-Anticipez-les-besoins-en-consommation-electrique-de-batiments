@@ -1,4 +1,4 @@
-# Projet 2 - Parcours Data Science - Anticipez les besoins en consommation électrique de bâtiments
+# Projet 4 - Parcours Data Science - Anticipez les besoins en consommation électrique de bâtiments
 
 ## Description du projet
 * Mise en place d'un modèle d'apprentissage supervisé (régression) pour prévoir les consommations de bâtiments de la ville de Seattle
